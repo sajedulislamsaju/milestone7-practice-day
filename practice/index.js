@@ -13,3 +13,7 @@ const interval = setInterval(()=>{
 // console.log(8)
 // console.log(1)
 // console.log(9)
+
+
+
+console.log(5+5)
